@@ -262,6 +262,10 @@
 ## Practo
 * [Blog](https://medium.com/practo-engineering)
 
+## Pulumi
+* [Blog](https://www.pulumi.com/blog/)
+* [GitHub](https://github.com/pulumi/pulumi)
+
 ## Quora
 * [Blog](https://www.quora.com/q/quoraengineering)
 * [GitHub Page](https://github.com/quora)
